@@ -3,6 +3,7 @@ db/
 __pycache__/
 application_key.json
 ai-data.json
+radicalx-gemini-quizify-7c6825e19ba0.json
 
 # Tasks
 *_solution.py
